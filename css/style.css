@@ -367,7 +367,7 @@ section {
 	color: #fff;	/*文字色*/
 }
 #section4::before {
-	background: #8a8888;	/*section4だけは背景画像ではなく、単に背景色だけ指定しました。*/
+	background: #f5f3f3;	/*section4だけは背景画像ではなく、単に背景色だけ指定しました。*/
 }
 
 	/*縦向き端末から見た場合に背景画像をチェンジする*/
